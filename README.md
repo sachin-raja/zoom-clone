@@ -27,4 +27,5 @@
 ----- `NodeJS `
 ----- `Express Server` 
 ----- `UUID Library `
------ `PeerJS `
+----- `PeerJS ` - `WebRTC`
+----- `Embedded JavaScript [ejs]`
