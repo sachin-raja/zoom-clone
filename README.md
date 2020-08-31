@@ -1,4 +1,4 @@
-# `The working of ZOOM`
+# `The ZOOM Clone`
 
 ##Steps to Follow
 -> Initialize our NodeJS Project
